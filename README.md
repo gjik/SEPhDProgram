@@ -30,12 +30,16 @@ This is a simple Python application built using tkinter that allows users to upl
 
 
 ## Usage
-1. Run the application:
+1. Run the script:
+    ```bash
+    python3 file_upload.py
+
+2. Run the application:
     ```bash
     python3 summarize.py
 
-2. The application window will open. Click the "Browse" button to select a PDF file for summarization.
+3. The application window will open. Click the "Browse" button to select a PDF file for summarization.
 
-3. Once a file is selected, the application will generate summaries using pre-trained NLP models.
+4. Once a file is selected, the application will generate summaries using pre-trained NLP models.
 
-4. The summaries will be displayed in the GUI.
+5. The summaries will be displayed in the GUI.
